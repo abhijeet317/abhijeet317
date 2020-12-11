@@ -32,3 +32,5 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhijeet317&layout=compact&langs_count=8&theme=synthwave"/>
 </a>
  
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+![VisitorCount](https://profile-counter.glitch.me/abhijeet317/count.svg)
