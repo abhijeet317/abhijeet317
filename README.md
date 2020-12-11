@@ -10,6 +10,11 @@
 ✉️ &nbsp;You can shoot me an email at axion.web317@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Details]for more details about me. I'm open to feedback and suggestions!
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/abhijeet317)
+[![Linkedin Badge](https://img.shields.io/badge/-Abhijeet%20M-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/AbhijeetM/)](https://www.linkedin.com/in/AbhijeetM/) [![Twitter Badge](http://img.shields.io/badge/-@search_axion-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/search_axion)](https://twitter.com/search_axion) [![GitHub followers](https://img.shields.io/github/followers/abhijeet317?label=Follow&style=social)](https://github.com/abhijeet317/?tab=follow)
+[![Instagram Badge](https://img.shields.io/badge/-axion-blue?style=social&logo=Instagram&link=https://www.instagram.com/axion/)](https://www.instagram.com/axion/) 
+[![Abhijeet M](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://abhijeet317.github.io/abhijeet317/)
+
 
 ### 🛠 &nbsp;Tech Stack
 
