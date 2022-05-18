@@ -37,3 +37,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, I'm Abhijeet
+#### I am a Front-End Developer
+![I am a Front-End Developer](https://github.com/abhijeet317/abhijeet317/banner.png)
+
+A tech enthusiast with excellent problem-solving skills and the ability to perform well in a team. I am seeking a challenging opportunity in an organization that will utilize my skills and abilities, offering professional growth while being resourceful, innovative, & flexible.
+Engineering professional with a Bachelor of Technology in the stream of Civil Engineering from Veer Surendra Sai University of Technology (Formerly UCE), Burla. Currently, I'm strengthening my portfolio
+
+Skills: HTML | CSS | JavaScript | AutoCAD | Git &  GitHub | UI?UX Design | C/C++
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhijeet317)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhijeetmohankuda/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/theeabhijeet.m/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/theabhijeet_m)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://abhijeet317.gthub.io/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet317)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeet317&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/abhijeet317)  
