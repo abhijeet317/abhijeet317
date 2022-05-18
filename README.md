@@ -3,11 +3,11 @@
 <img alt="Banner" width="100%" src="https://github.com/abhijeet317/abhijeet317/blob/401af5614f2961cfdc312495ce11f64e445508fb/images/ezgif.com-gif-maker.gif">
 
 # 💫About Me :
-A tech-enthusiast with excellent problem-solving skills and the ability to perform well in a team.
-I am seeking a challenging opportunity in an organization that will utilize my skills and abilities, offering professional growth while being resourceful, innovative & flexible.
-Engineering professional with a Bachelor of Technology in the stream of Civil Engineering from Veer Surendra Sai University of Technology (Formerly UCE), Burla.
-Currently, I am strengthening my portfolio.
-When I'm not Infront of a computer screen, I'm probably swimming, travelling, playing football or crossing off another item on my bucket list.
+- A tech-enthusiast with excellent problem-solving skills and the ability to perform well in a team.
+- I am seeking a challenging opportunity in an organization that will utilize my skills and abilities, offering professional growth while being resourceful, innovative & flexible.
+- Engineering professional with a Bachelor of Technology in the stream of Civil Engineering from Veer Surendra Sai University of Technology (Formerly UCE), Burla.
+- Currently, I am strengthening my portfolio.
+- When I'm not Infront of a computer screen, I'm probably swimming, travelling, playing football or crossing off another item on my bucket list.
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/the_axion) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theabhijeet.m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeetmohankuda) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abhijeetmohankuda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theabhijeet_m) 
