@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img alt="Banner" width="100%" src="https://github.com/abhijeet317/abhijeet317/blob/401af5614f2961cfdc312495ce11f64e445508fb/images/ezgif.com-gif-maker.gif">
 
