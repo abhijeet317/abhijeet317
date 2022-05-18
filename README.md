@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Abhijeet
 #### I am a Front-End Developer
-![I am a Front-End Developer]([https://github.com/abhijeet317/abhijeet317/images/banner.png](https://github.com/abhijeet317/abhijeet317/blob/56e01c1c92d995a4f6fb2b88f22a9e42f5fc6ab6/images/banner.png)
+![I am a Front-End Developer]([https://github.com/abhijeet317/abhijeet317/images/banner.png])(https://github.com/abhijeet317/abhijeet317/blob/56e01c1c92d995a4f6fb2b88f22a9e42f5fc6ab6/images/banner.png)
 
 A tech enthusiast with excellent problem-solving skills and the ability to perform well in a team. I am seeking a challenging opportunity in an organization that will utilize my skills and abilities, offering professional growth while being resourceful, innovative, & flexible.
 Engineering professional with a Bachelor of Technology in the stream of Civil Engineering from Veer Surendra Sai University of Technology (Formerly UCE), Burla. Currently, I'm strengthening my portfolio
