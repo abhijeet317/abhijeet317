@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="#">
+<img align="right" alt="Coding" width="400" src="https://github.com/abhijeet317/abhijeet317/blob/7e48a8fa9155d0f0d3cb4ef98903666f8d476dd5/images/Adobe_Express_20220518_2004530.09951253769874213.mp4">
 
 # 💫About Me :
 A tech-enthusiast with excellent problem-solving skills and the ability to perform well in a team. I am seeking a challenging opportunity in an organization that will utilize my skills and abilities, offering professional growth while being resourceful, innovative & flexible.
