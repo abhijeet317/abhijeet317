@@ -7,6 +7,7 @@
 - I am seeking a challenging opportunity in an organization that will utilize my skills and abilities, offering professional growth while being resourceful, innovative & flexible.
 - Engineering professional with a Bachelor of Technology in the stream of Civil Engineering from Veer Surendra Sai University of Technology (Formerly UCE), Burla.
 - Currently, I am strengthening my portfolio.
+- When I'm not infront of a computer screen, I'm probably swimming, travelling, playing football or crossing off another item on my bucketlist.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theabhijeet.m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeetmohankuda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theabhijeet_m) 
