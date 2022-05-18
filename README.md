@@ -1,4 +1,4 @@
-<img align="right" alt="Banner" width="400" src="https://github.com/abhijeet317/abhijeet317/blob/401af5614f2961cfdc312495ce11f64e445508fb/images/ezgif.com-gif-maker.gif">
+<img  alt="Banner" src="https://github.com/abhijeet317/abhijeet317/blob/401af5614f2961cfdc312495ce11f64e445508fb/images/ezgif.com-gif-maker.gif">
 
 # 💫About Me :
 A tech-enthusiast with excellent problem-solving skills and the ability to perform well in a team. I am seeking a challenging opportunity in an organization that will utilize my skills and abilities, offering professional growth while being resourceful, innovative & flexible.
